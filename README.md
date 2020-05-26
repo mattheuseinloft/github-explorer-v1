@@ -8,11 +8,11 @@
 </h1>
 
 <p align="center">
-  <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/mattheuseinloft/github-explorer?color=%23FF9000">
+  <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/mattheuseinloft/github-explorer?color=%230366d6">
 
-  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/mattheuseinloft/github-explorer?color=%23FF9000">
+  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/mattheuseinloft/github-explorer?color=%230366d6">
 
-  <img alt="License" src="https://img.shields.io/github/license/mattheuseinloft/github-explorer?color=%23FF9000">
+  <img alt="License" src="https://img.shields.io/github/license/mattheuseinloft/github-explorer?color=%230366d6">
 </p>
 
 <p align="center">
