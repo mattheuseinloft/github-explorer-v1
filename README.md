@@ -3,8 +3,6 @@
     src="src/assets/logo.svg"
     width="200px"
   />
-  <br>
-    Github Explorer
 </h1>
 
 <p align="center">
