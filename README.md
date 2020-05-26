@@ -32,6 +32,7 @@ This project is being developed with the following technologies:
 - [TypeScript](https://www.typescriptlang.org/): Programming language
 - [React](https://reactjs.org/): A JavaScript library for building user interfaces
 - [ESLint](https://eslint.org/), [Prettier](https://prettier.io/) & [EditorConfig](https://editorconfig.org/): Code standardization and formatting
+- [React Router DOM](https://www.npmjs.com/package/react-router-dom): Declarative Routing for React.js
 
 ## :memo: License
 This project is under the MIT license. See the [LICENSE](https://github.com/mattheuseinloft/github-explorer/blob/master/LICENSE) for more information.
